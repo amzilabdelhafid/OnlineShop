@@ -5,6 +5,7 @@ require_once("inc/header.php");
 <div class="col-md-12 text-center">
     <h3>Get connected to access your profile!</h3>
 </div>
+<!-- git test -->
 <div class="col-md-5">
     <form method="" action="">
         <div class="form-group">
